@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sarvan</h1>
 <h3 align="center">I'm a certified ethical hacker and a security enthusiast.</h3>
 
-- 🔭 I’m currently working as a security engineer intern at **BugBase**
+- 🔭 I’m a former security engineer intern at **BugBase**
 
 - 🌱 I’m currently preparing for **ecppt**
 
