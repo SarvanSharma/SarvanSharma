@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Web app pentesting and security**
 
-- 📫 How to reach me **saravan.kaza21@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/raghavasaissh/](https://www.linkedin.com/in/raghavasaissh/)
 
 <h3 align="left">Connect with me:</h3>
